@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace tpmodul4_1302200037
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            HaloGeneric.SapaUser("Nastma Dzia Ulhaque");
+        }
+    }
+}
